@@ -7,6 +7,6 @@ def main(s,n):
     Returns:
         str: answer
     """
-    return s[-4:]
+    return s[n:]
 
-print(main("terminal", 3))
+print(main("terminal", 4))
