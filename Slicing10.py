@@ -10,4 +10,4 @@ def main(s,n,k):
     """
     return s[n:k]
 
-print(main("codeschooluz", 2, 2)) 
+print(main("codeschooluz", 2, 2))
