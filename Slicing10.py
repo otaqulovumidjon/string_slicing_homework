@@ -8,13 +8,6 @@ def main(s,n,k):
     Returns:
         str: answer
     """
-    # if n<k:
-    #     return s[n:k]
-    # elif n==k:
-    #     return s[n] or s[k]
-    # else:
-    #     return ""
-
     return s[n:k]
 
-print(main("codeschooluz", 2, 5)) 
+print(main("codeschooluz", 2, 2)) 
